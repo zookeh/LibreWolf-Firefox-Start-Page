@@ -1,5 +1,5 @@
 # LibreWolf-Firefox-Start-Page
-This is a start page html program for LibreWolf, or other FireFox based systems.
+This is a start page html program for LibreWolf, or other FireFox based browsers.
 
 # How to recreate
 Download the code as a ZIP file,
