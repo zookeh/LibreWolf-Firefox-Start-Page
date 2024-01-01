@@ -14,4 +14,6 @@ Below the options bar, select "LOCAL FILE",
 
 and click "browse", 
 
-Now select the HTML file, and open a new tab, and you can see the results for yourself. Any issues, please lmk on here in the issues tab. Or this reddit thread > (https://www.reddit.com/r/browsers/comments/18vphp4/rate_my_librewolf_start_page/)
+Now select the HTML file, and open a new tab, and you can see the results for yourself.
+
+Any issues, please lmk on here in the issues tab. Or this reddit thread > (https://www.reddit.com/r/browsers/comments/18vphp4/rate_my_librewolf_start_page/)
